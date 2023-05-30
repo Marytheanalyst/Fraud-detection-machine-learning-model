@@ -1,4 +1,3 @@
-Credit Card Fraud Detection using Logistic Regression
 This project aims to detect credit card fraud using logistic regression, a popular machine learning algorithm. The goal is to build a model that can accurately classify fraudulent transactions and help in preventing financial losses due to fraudulent activities.
 
 Dataset
@@ -14,23 +13,16 @@ Scikit-learn
 Matplotlib
 Seaborn
 You can install the dependencies using pip:
-
-Copy code
 pip install numpy pandas scikit-learn matplotlib seaborn
+
 Usage
 Clone the repository:
+git clone [https://github.com/Marytheanalyst/credit-card-fraud-detection.git](https://github.com/Marytheanalyst/Fraud-detection-machine-learning-model/blob/main/Credit%20card%20fraud%20detection.ipynb)
 
-bash
-Copy code
-git clone https://github.com/your-username/credit-card-fraud-detection.git
 Navigate to the project directory:
-
-bash
-Copy code
 cd credit-card-fraud-detection
-Run the project:
 
-Copy code
+Run the project:
 python credit_card_fraud_detection.py
 This will train the logistic regression model on the dataset and evaluate its performance.
 
